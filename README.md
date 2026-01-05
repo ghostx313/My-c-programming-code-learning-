@@ -1,10 +1,10 @@
 # My C Programming Journey
 
-Learning **C** from scratch in 2025/2026  
+Learning **C** from scratch in 2025 
 A personal record of blood, sweat, segfaults and small victories
 
 ## Current Status
-- Started: January 2025
+- Started: January 2026
 - Currently learning: Pointers & Memory Management (still scary)
 
 ## Progress so far
